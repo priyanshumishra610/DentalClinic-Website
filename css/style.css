@@ -342,6 +342,15 @@ section{
    text-transform: none;
 }
 
+.footer .box-container .box p a{
+   color:var(--light-color);
+   text-transform: none;
+}
+
+.footer .box-container .box p a:hover{
+   color:var(--blue);
+}
+
 .footer .credit{
    text-align: center;
    border-top: var(--border);
